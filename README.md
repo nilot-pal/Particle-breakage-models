@@ -4,7 +4,7 @@ Aero engine manufacturing companies do extensive CFD analysis of air flow inside
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72824334/209989558-2bbd9fee-d2ba-4499-9e6b-c9a7e59246a1.png" width="400" height="400">
 </p>  
-<p>
+<p align="center">
     <em>Ice crystals mixed with incoming air enter into the engine</em>
 </p>
 
